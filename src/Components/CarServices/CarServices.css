@@ -1,0 +1,13 @@
+.car-service{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.car-service h1{
+    font-size: 46px;
+    font-weight: bold;
+}
+.car-service .service-content{
+    
+}
