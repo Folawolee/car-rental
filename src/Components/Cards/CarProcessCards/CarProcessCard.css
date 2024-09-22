@@ -1,0 +1,24 @@
+.card-data{
+    width: 310px;
+    height: 118px;
+    margin: 0;
+}
+.card-data-title{
+    font-size: 44px;
+    color: #d0d0d0;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+}
+.card-data-content{
+    font-size: 16px;
+    font-weight: bold;
+    color: #414141;
+    margin: 0;
+}
+.card-data-desc{
+    font-size: 16px;
+    font-weight: regular;
+    color: #686868;
+    margin: 0;
+}

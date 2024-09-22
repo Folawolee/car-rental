@@ -1,0 +1,7 @@
+.process-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px 0;
+    gap: 10px;
+}
