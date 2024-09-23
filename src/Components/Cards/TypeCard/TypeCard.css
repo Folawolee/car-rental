@@ -1,0 +1,31 @@
+.typecard{
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    align-items: center;
+}
+.typecard h2{
+    font-size: 26px;
+    font-weight: bold;
+    margin: 0;
+}
+.type-price{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    font-size: 20px;
+    gap: 10px;
+}
+.type-price .type-card-price{
+    font-weight: regular;
+}
+.type-price .type-card-time{
+    font-weight: 600;
+}
+.type-card-rent{
+    font-size: 16px;
+    font-weight: bold;
+    color: #414141;
+    margin: 10px;
+    border-bottom: 2px solid #BCBCBC;
+}

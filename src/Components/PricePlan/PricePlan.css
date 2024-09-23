@@ -1,0 +1,45 @@
+.price-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+.price-content h2{
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.price-content .timely{
+    display: flex;
+    padding-bottom: 20px;
+    margin: 0;
+    gap: 20px;
+}
+.monthly{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #686868;
+}
+.oval{
+    background: #DFDFDF;
+    width: 64px;
+    height: 36px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.circle{
+    background: #9E8464;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    margin: 0;
+}
+.price-card{
+    display: flex;
+    gap: 20px;
+}

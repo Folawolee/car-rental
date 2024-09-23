@@ -11,29 +11,29 @@ const CarService = () => {
     <div className='car-service'>
         <h1>GREAT CARS RENTAL & LIMOUSINE SERVICES</h1>
         <div className='service-content'>
-            <div className='service-content1'>
+            <div className=' services service-content1'>
                 <img src={service1} alt="" />
                 <p>HYUNDAI</p>
             </div>
-            <div className='service-content2'>
+            <div className='services service-content2'>
                 <img src={services2} alt="" />
-                <p>HYUNDAI</p>
+                <p>JEEP</p>
             </div>
-            <div className='service-content3'>
+            <div className='services service-content3'>
                 <img src={services3} alt="" />
-                <p>HYUNDAI</p>
+                <p>BMW</p>
             </div>
-            <div className='service-content4'>
+            <div className='services service-content4'>
                 <img src={services4} alt="" />
-                <p>HYUNDAI</p>
+                <p>JEEP</p>
             </div>
-            <div className='service-content5'>
+            <div className='services service-content5'>
                 <img src={services5} alt="" />
-                <p>HYUNDAI</p>
+                <p>FORD</p>
             </div>
-            <div className='service-content6'>
+            <div className='services service-content6'>
                 <img src={services6} alt="" />
-                <p>HYUNDAI</p>
+                <p>RANGE ROVER</p>
             </div>
         </div>
     </div>

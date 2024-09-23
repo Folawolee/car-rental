@@ -1,0 +1,60 @@
+.find-car{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 80px;
+}
+.find-car-content h1{
+    font-size: 46px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.car-type{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px;
+}
+.car-type .type-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44px;
+    width: 71px;
+    background: #2E2E2E;
+    color: #fff;
+    font-size: 16px;
+    font-weight: regular;
+}
+.type-coupe{
+    width: 107px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #B6B6B6;
+    color: #939393;
+}
+.type-sedan{
+    width: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #B6B6B6;
+    color: #939393;
+}
+.type-suv{
+    width: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #B6B6B6;
+    color: #939393;
+}
+.type-card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+}

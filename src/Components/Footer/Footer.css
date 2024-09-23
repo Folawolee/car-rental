@@ -1,0 +1,100 @@
+.footer{
+    background: #2E2E2E;
+    color: #fff;
+}
+.footer-upper-section{
+    padding: 100px 300px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.logo-section{
+    width: 420px;
+    /* height: 160px; */
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 36px;
+    font-weight: bold;
+}
+.logo img{
+    width: 52px;
+    height: 52px;
+}
+.social-logo{
+    display: flex;
+    gap: 15px;
+}
+.contact-area{
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+}
+.contact-area h2{
+    font-size: 26px;
+    font-style: bold;
+}
+.contact-info-areaset{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.news{
+    width: 420px;
+    /* height: 164px; */
+    display: flex;
+    flex-direction: column;
+}
+.news h2{
+    font-size: 26px;
+    font-weight: bold;
+    /* margin: 0; */
+}
+.newsletter{
+    font-size: 16px;
+    font-weight: regular;
+    margin: 0;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff;
+    align-items: center;
+    padding-top: 10px;
+}
+.email-sub{
+    font-style: italic;
+}
+.sub-sub{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.underline{
+    border-bottom: 1px solid #5F5F5F;
+
+}
+.footer-lower-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 300px;
+    height: 84px;
+    align-items: center;
+}
+.lower-left{
+    font-weight: regular;
+}
+.lower-left a{
+    font-weight: semi-bold;
+    font-size: 16px;
+    color: #fff;
+}
+.lower-right-list{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
